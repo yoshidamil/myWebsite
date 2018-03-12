@@ -11,12 +11,12 @@
   </head>
   <body>
     <?php require_once('DBAccess.php'); ?>
-      
+
     <header>
       <h1>test</h1>
     </header>
 
-    <!-- <nav>
+    <!-- <nav> testtest test test
       <ul>
         <li><a href="index4.html">Home</a></li>
         <li><a href="Profile.html">Profile</a></li>
